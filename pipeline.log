@@ -1,0 +1,35 @@
+2026-05-09 11:51:37,606 - INFO - Pipeline started
+2026-05-09 11:51:37,606 - INFO - Starting scraping \u0645\u0631\u062d\u0644\u0647
+2026-05-09 11:53:08,194 - INFO - Pipeline started
+2026-05-09 11:53:08,194 - INFO - Starting scraping \u0645\u0631\u062d\u0644\u0647
+2026-05-09 11:55:14,920 - INFO - Pipeline started
+2026-05-09 11:55:14,920 - INFO - Starting web scraping
+2026-05-09 11:55:14,946 - INFO - ====== WebDriver manager ======
+2026-05-09 11:55:15,517 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-09 11:55:15,681 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-09 11:55:15,851 - INFO - There is no [win64] chromedriver "147.0.7727.117" for browser google-chrome "147.0.7727" in cache
+2026-05-09 11:55:15,854 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-09 11:55:16,318 - INFO - WebDriver version 147.0.7727.117 selected
+2026-05-09 11:55:16,320 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-09 11:55:16,320 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-09 11:55:16,495 - INFO - Driver downloading response is 200
+2026-05-09 11:57:37,552 - INFO - Pipeline started
+2026-05-09 11:57:37,552 - INFO - Starting web scraping
+2026-05-09 11:57:37,578 - INFO - ====== WebDriver manager ======
+2026-05-09 11:57:38,088 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-09 11:57:38,273 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-09 11:57:38,453 - INFO - There is no [win64] chromedriver "147.0.7727.117" for browser google-chrome "147.0.7727" in cache
+2026-05-09 11:57:38,453 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-09 11:57:38,907 - INFO - WebDriver version 147.0.7727.117 selected
+2026-05-09 11:57:38,910 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-09 11:57:38,910 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-09 11:57:39,120 - INFO - Driver downloading response is 200
+2026-05-09 11:59:47,585 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-09 11:59:47,901 - INFO - Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\chromedriver\win64\147.0.7727.117]
+2026-05-09 11:59:51,083 - INFO - Scraping completed successfully
+2026-05-09 11:59:53,151 - INFO - Fetching API data
+2026-05-09 11:59:53,375 - INFO - API data fetched successfully
+2026-05-09 11:59:53,376 - INFO - Starting data cleaning
+2026-05-09 11:59:53,390 - INFO - Data cleaning completed
+2026-05-09 11:59:53,390 - INFO - Saving data
+2026-05-09 11:59:53,800 - INFO - Data saved successfully
